@@ -1,0 +1,62 @@
+{
+  "categories": [
+    {
+      "id": "popular",
+      "name": "Populares",
+      "books": [
+        {
+          "id": "1",
+          "title": "El Señor de los Anillos",
+          "author": "J.R.R. Tolkien",
+          "description": "Una épica aventura en un mundo de fantasía donde un hobbit debe destruir un anillo poderoso para salvar la Tierra Media.",
+          "rating": 5,
+          "image": "https://m.media-amazon.com/images/I/913sMwNHsBL._UF894,1000_QL80_.jpg"
+        },
+        {
+          "id": "2",
+          "title": "Cien Años de Soledad",
+          "author": "Gabriel García Márquez",
+          "description": "La historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo.",
+          "rating": 4,
+          "image": "https://images.penguinrandomhouse.com/cover/9780307474728"
+        }
+      ]
+    },
+    {
+      "id": "top_rated",
+      "name": "Mejor Calificados",
+      "books": [
+        {
+          "id": "3",
+          "title": "1984",
+          "author": "George Orwell",
+          "description": "Una novela distópica que presenta una sociedad futura donde el gobierno totalitario vigila cada movimiento de sus ciudadanos.",
+          "rating": 5,
+          "image": "https://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+          "id": "4",
+          "title": "Un Mundo Feliz",
+          "author": "Aldous Huxley",
+          "description": "Una visión profética de una sociedad futura que ha sacrificado la libertad por la estabilidad y la felicidad artificial.",
+          "rating": 5,
+          "image": "https://m.media-amazon.com/images/I/81zE42gT3xL._AC_UF1000,1000_QL80_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "upcoming",
+      "name": "Próximos Lanzamientos",
+      "books": [
+        {
+          "id": "5",
+          "title": "Vientos de Invierno",
+          "author": "George R.R. Martin",
+          "description": "La esperada sexta novela de la serie 'Canción de Hielo y Fuego', que promete resolver muchos de los misterios de Poniente.",
+          "rating": 0,
+          "image": "https://www.lagardedenuit.com/wiki/images/1/1b/TWOW_couv.jpg"
+        }
+      ]
+    }
+  ]
+}
